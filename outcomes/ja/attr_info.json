@@ -1,0 +1,680 @@
+{
+  "Jlvnl2s": {
+    "item": [
+      {
+        "info": {
+          "type": "italic"
+        },
+        "gap": 0,
+        "length": 19
+      }
+    ]
+  },
+  "JlAKphc": {
+    "item": [
+      {
+        "info": {
+          "type": "sub"
+        },
+        "gap": 47,
+        "length": 1
+      }
+    ]
+  },
+  "JlAK6l4": {
+    "ddx": [
+      {
+        "info": {
+          "type": "sub"
+        },
+        "gap": 74,
+        "length": 1
+      }
+    ]
+  },
+  "JmpZNJo": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0100",
+          "index": "1",
+          "title": "表1. 疾患",
+          "id": "TBL0100"
+        },
+        "gap": 24,
+        "length": 2
+      }
+    ]
+  },
+  "JnIAstQ": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0201",
+          "index": "2-1",
+          "title": "表2-1. 血液・造血器・リンパ系",
+          "id": "TBL0201"
+        },
+        "gap": 12,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAstY": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0202",
+          "index": "2-2",
+          "title": "表2-2. 神経系",
+          "id": "TBL0202"
+        },
+        "gap": 4,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAstc": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0203",
+          "index": "2-3",
+          "title": "表2-3. 皮膚系",
+          "id": "TBL0203"
+        },
+        "gap": 4,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAstk": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0204",
+          "index": "2-4",
+          "title": "表2-4. 運動器（筋骨格）系",
+          "id": "TBL0204"
+        },
+        "gap": 10,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAsto": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0205",
+          "index": "2-5",
+          "title": "表2-5. 循環器系",
+          "id": "TBL0205"
+        },
+        "gap": 5,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAstw": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0206",
+          "index": "2-6",
+          "title": "表2-6. 呼吸器系",
+          "id": "TBL0206"
+        },
+        "gap": 5,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAst0": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0207",
+          "index": "2-7",
+          "title": "表2-7. 消化器系",
+          "id": "TBL0207"
+        },
+        "gap": 5,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAst8": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0208",
+          "index": "2-8",
+          "title": "表2-8. 腎・尿路系（体液・電解質バランスを含む）",
+          "id": "TBL0208"
+        },
+        "gap": 21,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAsuA": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0209",
+          "index": "2-9",
+          "title": "表2-9. 生殖器系",
+          "id": "TBL0209"
+        },
+        "gap": 5,
+        "length": 4
+      }
+    ]
+  },
+  "JnIAsuI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0210",
+          "index": "2-10",
+          "title": "表2-10. 妊娠と分娩",
+          "id": "TBL0210"
+        },
+        "gap": 6,
+        "length": 5
+      }
+    ]
+  },
+  "JnIAsuM": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0211",
+          "index": "2-11",
+          "title": "表2-11. 小児",
+          "id": "TBL0211"
+        },
+        "gap": 3,
+        "length": 5
+      }
+    ]
+  },
+  "JnIAsuU": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0212",
+          "index": "2-12",
+          "title": "表2-12. 乳房",
+          "id": "TBL0212"
+        },
+        "gap": 3,
+        "length": 5
+      }
+    ]
+  },
+  "JnIAsuc": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0213",
+          "index": "2-13",
+          "title": "表2-13. 内分泌・栄養・代謝系",
+          "id": "TBL0213"
+        },
+        "gap": 11,
+        "length": 5
+      }
+    ]
+  },
+  "JnIAsug": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0214",
+          "index": "2-14",
+          "title": "表2-14. 眼・視覚系",
+          "id": "TBL0214"
+        },
+        "gap": 6,
+        "length": 5
+      }
+    ]
+  },
+  "JnIAsuo": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0215",
+          "index": "2-15",
+          "title": "表2-15. 耳鼻・咽喉・口腔系",
+          "id": "TBL0215"
+        },
+        "gap": 10,
+        "length": 5
+      }
+    ]
+  },
+  "JnIAsus": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0216",
+          "index": "2-16",
+          "title": "表2-16. 精神系",
+          "id": "TBL0216"
+        },
+        "gap": 4,
+        "length": 5
+      }
+    ]
+  },
+  "JnGUA2Q": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0100",
+          "index": "1",
+          "title": "表1. 疾患",
+          "id": "TBL0100"
+        },
+        "gap": 61,
+        "length": 2
+      }
+    ]
+  },
+  "JnGUA2Y": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0217",
+          "index": "2-17",
+          "title": "表2-17. 免疫・アレルギー",
+          "id": "TBL0217"
+        },
+        "gap": 51,
+        "length": 5
+      }
+    ]
+  },
+  "JnGUA2g": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0217",
+          "index": "2-17",
+          "title": "表2-17. 免疫・アレルギー",
+          "id": "TBL0217"
+        },
+        "gap": 32,
+        "length": 5
+      }
+    ]
+  },
+  "JnGUA2o": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0217",
+          "index": "2-17",
+          "title": "表2-17. 免疫・アレルギー",
+          "id": "TBL0217"
+        },
+        "gap": 50,
+        "length": 5
+      }
+    ]
+  },
+  "JnGUA2s": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0217",
+          "index": "2-17",
+          "title": "表2-17. 免疫・アレルギー",
+          "id": "TBL0217"
+        },
+        "gap": 72,
+        "length": 5
+      }
+    ]
+  },
+  "JnIAsvA": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0218",
+          "index": "2-18",
+          "title": "表2-18. 感染症",
+          "id": "TBL0218"
+        },
+        "gap": 4,
+        "length": 5
+      }
+    ]
+  },
+  "JkxnuVc": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0100",
+          "index": "1",
+          "title": "表1. 疾患",
+          "id": "TBL0100"
+        },
+        "gap": 22,
+        "length": 2
+      }
+    ]
+  },
+  "JkxnuXo": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0219",
+          "index": "2-19",
+          "title": "表2-19. 腫瘍",
+          "id": "TBL0219"
+        },
+        "gap": 16,
+        "length": 5
+      }
+    ]
+  },
+  "JnIAsvM": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0220",
+          "index": "2-20",
+          "title": "表2-20. 救急・集中治療",
+          "id": "TBL0220"
+        },
+        "gap": 8,
+        "length": 5
+      }
+    ]
+  },
+  "Jm6NdFA": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0300",
+          "index": "3",
+          "title": "表3. 身体診察",
+          "id": "TBL0300"
+        },
+        "gap": 9,
+        "length": 2
+      }
+    ]
+  },
+  "Jkxiru4": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "表4. 基本診療科",
+          "id": "TBL0400"
+        },
+        "gap": 6,
+        "length": 2
+      }
+    ]
+  },
+  "JkxirvI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0500",
+          "index": "5",
+          "title": "表5. 主要症候",
+          "id": "TBL0500"
+        },
+        "gap": 5,
+        "length": 2
+      }
+    ]
+  },
+  "JkxirvM": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0500",
+          "index": "5",
+          "title": "表5. 主要症候",
+          "id": "TBL0500"
+        },
+        "gap": 5,
+        "length": 2
+      }
+    ]
+  },
+  "Jkxirvg": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "表4. 基本診療科",
+          "id": "TBL0400"
+        },
+        "gap": 6,
+        "length": 2
+      }
+    ]
+  },
+  "Jkxirvk": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "表4. 基本診療科",
+          "id": "TBL0400"
+        },
+        "gap": 6,
+        "length": 2
+      }
+    ]
+  },
+  "JkxirwI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "表6. 主要な臨床・画像検査",
+          "id": "TBL0600"
+        },
+        "gap": 11,
+        "length": 2
+      }
+    ]
+  },
+  "JkxirwM": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "表6. 主要な臨床・画像検査",
+          "id": "TBL0600"
+        },
+        "gap": 11,
+        "length": 2
+      }
+    ]
+  },
+  "JkxirwQ": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "表6. 主要な臨床・画像検査",
+          "id": "TBL0600"
+        },
+        "gap": 11,
+        "length": 2
+      }
+    ]
+  },
+  "JkxirxE": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "表6. 主要な臨床・画像検査",
+          "id": "TBL0600"
+        },
+        "gap": 11,
+        "length": 2
+      }
+    ]
+  },
+  "JkxirxI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "表6. 主要な臨床・画像検査",
+          "id": "TBL0600"
+        },
+        "gap": 11,
+        "length": 2
+      }
+    ]
+  },
+  "Jm6NdFI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "表6. 主要な臨床・画像検査",
+          "id": "TBL0600"
+        },
+        "gap": 11,
+        "length": 2
+      }
+    ]
+  },
+  "Jkxirx0": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0500",
+          "index": "5",
+          "title": "表5. 主要症候",
+          "id": "TBL0500"
+        },
+        "gap": 5,
+        "length": 2
+      }
+    ]
+  },
+  "Jkxir20": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "表4. 基本診療科",
+          "id": "TBL0400"
+        },
+        "gap": 6,
+        "length": 2
+      }
+    ]
+  },
+  "Jkxir3E": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0700",
+          "index": "7",
+          "title": "表7. 基本的臨床手技",
+          "id": "TBL0700"
+        },
+        "gap": 14,
+        "length": 2
+      }
+    ]
+  },
+  "Jkxir3I": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0700",
+          "index": "7",
+          "title": "表7. 基本的臨床手技",
+          "id": "TBL0700"
+        },
+        "gap": 14,
+        "length": 2
+      }
+    ]
+  },
+  "Jkxir4Q": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "表4. 基本診療科",
+          "id": "TBL0400"
+        },
+        "gap": 6,
+        "length": 2
+      }
+    ]
+  }
+}

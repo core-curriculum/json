@@ -1,0 +1,365 @@
+{
+  "TBL0100": {
+    "id": "JuFT2ss",
+    "index": "TBL-01-00",
+    "item": "疾患",
+    "file": "TBL0100",
+    "legend": "",
+    "number": "1",
+    "columns": {
+      "system": "臓器",
+      "category": "カテゴリ",
+      "item": "疾患",
+      "core": "基本"
+    },
+    "main": "item",
+    "link": "/tables/TBL0100"
+  },
+  "TBL0201": {
+    "id": "JuFT2sw",
+    "index": "TBL-02-01",
+    "item": "血液・造血器・リンパ系",
+    "file": "TBL0201",
+    "legend": "",
+    "number": "2-1",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0201"
+  },
+  "TBL0202": {
+    "id": "JuFT2s4",
+    "index": "TBL-02-02",
+    "item": "神経系",
+    "file": "TBL0202",
+    "legend": "",
+    "number": "2-2",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0202"
+  },
+  "TBL0203": {
+    "id": "JuFT2s8",
+    "index": "TBL-02-03",
+    "item": "皮膚系",
+    "file": "TBL0203",
+    "legend": "",
+    "number": "2-3",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0203"
+  },
+  "TBL0204": {
+    "id": "JuFT2tE",
+    "index": "TBL-02-04",
+    "item": "運動器（筋骨格）系",
+    "file": "TBL0204",
+    "legend": "",
+    "number": "2-4",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0204"
+  },
+  "TBL0205": {
+    "id": "JuFT2tI",
+    "index": "TBL-02-05",
+    "item": "循環器系",
+    "file": "TBL0205",
+    "legend": "",
+    "number": "2-5",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0205"
+  },
+  "TBL0206": {
+    "id": "JuFT2tQ",
+    "index": "TBL-02-06",
+    "item": "呼吸器系",
+    "file": "TBL0206",
+    "legend": "",
+    "number": "2-6",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0206"
+  },
+  "TBL0207": {
+    "id": "JuFT2tY",
+    "index": "TBL-02-07",
+    "item": "消化器系",
+    "file": "TBL0207",
+    "legend": "",
+    "number": "2-7",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0207"
+  },
+  "TBL0208": {
+    "id": "JuFT2tc",
+    "index": "TBL-02-08",
+    "item": "腎・尿路系（体液・電解質バランスを含む）",
+    "file": "TBL0208",
+    "legend": "",
+    "number": "2-8",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0208"
+  },
+  "TBL0209": {
+    "id": "JuFT2tk",
+    "index": "TBL-02-09",
+    "item": "生殖器系",
+    "file": "TBL0209",
+    "legend": "",
+    "number": "2-9",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0209"
+  },
+  "TBL0210": {
+    "id": "JuFT2to",
+    "index": "TBL-02-10",
+    "item": "妊娠と分娩",
+    "file": "TBL0210",
+    "legend": "",
+    "number": "2-10",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0210"
+  },
+  "TBL0211": {
+    "id": "JuFT2tw",
+    "index": "TBL-02-11",
+    "item": "小児",
+    "file": "TBL0211",
+    "legend": "",
+    "number": "2-11",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0211"
+  },
+  "TBL0212": {
+    "id": "JuFT2t0",
+    "index": "TBL-02-12",
+    "item": "乳房",
+    "file": "TBL0212",
+    "legend": "",
+    "number": "2-12",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0212"
+  },
+  "TBL0213": {
+    "id": "JuFT2t8",
+    "index": "TBL-02-13",
+    "item": "内分泌・栄養・代謝系",
+    "file": "TBL0213",
+    "legend": "",
+    "number": "2-13",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0213"
+  },
+  "TBL0214": {
+    "id": "JuFT2uA",
+    "index": "TBL-02-14",
+    "item": "眼・視覚系",
+    "file": "TBL0214",
+    "legend": "",
+    "number": "2-14",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0214"
+  },
+  "TBL0215": {
+    "id": "JuFT2uI",
+    "index": "TBL-02-15",
+    "item": "耳鼻・咽喉・口腔系",
+    "file": "TBL0215",
+    "legend": "",
+    "number": "2-15",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0215"
+  },
+  "TBL0216": {
+    "id": "JuFT2uQ",
+    "index": "TBL-02-16",
+    "item": "精神系",
+    "file": "TBL0216",
+    "legend": "",
+    "number": "2-16",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0216"
+  },
+  "TBL0217": {
+    "id": "JuFT2uU",
+    "index": "TBL-02-17",
+    "item": "免疫・アレルギー",
+    "file": "TBL0217",
+    "legend": "",
+    "number": "2-17",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0217"
+  },
+  "TBL0218": {
+    "id": "JuFT2uc",
+    "index": "TBL-02-18",
+    "item": "感染症",
+    "file": "TBL0218",
+    "legend": "",
+    "number": "2-18",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0218"
+  },
+  "TBL0219": {
+    "id": "JuFT2ug",
+    "index": "TBL-02-19",
+    "item": "腫瘍",
+    "file": "TBL0219",
+    "legend": "以下に臓器特異的な症候は含まれていない。",
+    "number": "2-19",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0219"
+  },
+  "TBL0220": {
+    "id": "JuFT2uo",
+    "index": "TBL-02-20",
+    "item": "救急・集中治療",
+    "file": "TBL0220",
+    "legend": "",
+    "number": "2-20",
+    "columns": {
+      "category": "分類",
+      "item": "項目名"
+    },
+    "main": "item",
+    "link": "/tables/TBL0220"
+  },
+  "TBL0300": {
+    "id": "JuFT2us",
+    "index": "TBL-03-00",
+    "item": "身体診察",
+    "file": "TBL0300",
+    "legend": "",
+    "number": "3",
+    "columns": {
+      "item": "診察項目"
+    },
+    "main": "item",
+    "link": "/tables/TBL0300"
+  },
+  "TBL0400": {
+    "id": "JuFT2u0",
+    "index": "TBL-04-00",
+    "item": "基本診療科",
+    "file": "TBL0400",
+    "legend": "",
+    "number": "4",
+    "columns": {
+      "item": "診療科"
+    },
+    "main": "item",
+    "link": "/tables/TBL0400"
+  },
+  "TBL0500": {
+    "id": "JuFT2u4",
+    "index": "TBL-05-00",
+    "item": "主要症候",
+    "file": "TBL0500",
+    "legend": "疾患は、頭部から爪先(Head to Toe)の順番であり、それに該当しないものは病態順となっている。",
+    "number": "5",
+    "columns": {
+      "item": "主要症候",
+      "ddx": "検討すべき鑑別疾患"
+    },
+    "main": "item",
+    "link": "/tables/TBL0500"
+  },
+  "TBL0600": {
+    "id": "JuFT2vA",
+    "index": "TBL-06-00",
+    "item": "主要な臨床・画像検査",
+    "file": "TBL0600",
+    "legend": "",
+    "number": "6",
+    "columns": {
+      "item": "検査項目"
+    },
+    "main": "item",
+    "link": "/tables/TBL0600"
+  },
+  "TBL0700": {
+    "id": "JuFT2vE",
+    "index": "TBL-07-00",
+    "item": "基本的臨床手技",
+    "file": "TBL0700",
+    "legend": "※シミュレーション教育を含め、患者の安全に十分配慮して実施すること。他の基本的臨床手技についても、適切な準備・監督下で行っていくことは妨げない。",
+    "number": "7",
+    "columns": {
+      "category": "分類",
+      "item": "基本的臨床手技"
+    },
+    "main": "item",
+    "link": "/tables/TBL0700"
+  }
+}

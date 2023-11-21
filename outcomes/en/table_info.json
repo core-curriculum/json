@@ -1,0 +1,365 @@
+{
+  "TBL0100": {
+    "id": "JuFT2ss",
+    "index": "TBL-01-00",
+    "item": "Diseases",
+    "file": "TBL0100",
+    "legend": "",
+    "number": "1",
+    "columns": {
+      "system": "Organ system or specialty",
+      "category": "Category",
+      "item": "Diseases",
+      "core": "Core requirement"
+    },
+    "main": "item",
+    "link": "/tables/TBL0100"
+  },
+  "TBL0201": {
+    "id": "JuFT2sw",
+    "index": "TBL-02-01",
+    "item": "Hematologic, hematopoietic, and lymphatic systems",
+    "file": "TBL0201",
+    "legend": "",
+    "number": "2-1",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0201"
+  },
+  "TBL0202": {
+    "id": "JuFT2s4",
+    "index": "TBL-02-02",
+    "item": "Nervous system",
+    "file": "TBL0202",
+    "legend": "",
+    "number": "2-2",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0202"
+  },
+  "TBL0203": {
+    "id": "JuFT2s8",
+    "index": "TBL-02-03",
+    "item": "Dermatological system",
+    "file": "TBL0203",
+    "legend": "",
+    "number": "2-3",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0203"
+  },
+  "TBL0204": {
+    "id": "JuFT2tE",
+    "index": "TBL-02-04",
+    "item": "Musculoskeletal system",
+    "file": "TBL0204",
+    "legend": "",
+    "number": "2-4",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0204"
+  },
+  "TBL0205": {
+    "id": "JuFT2tI",
+    "index": "TBL-02-05",
+    "item": "Cardiovascular system",
+    "file": "TBL0205",
+    "legend": "",
+    "number": "2-5",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0205"
+  },
+  "TBL0206": {
+    "id": "JuFT2tQ",
+    "index": "TBL-02-06",
+    "item": "Respiratory system",
+    "file": "TBL0206",
+    "legend": "",
+    "number": "2-6",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0206"
+  },
+  "TBL0207": {
+    "id": "JuFT2tY",
+    "index": "TBL-02-07",
+    "item": "Digestive system",
+    "file": "TBL0207",
+    "legend": "",
+    "number": "2-7",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0207"
+  },
+  "TBL0208": {
+    "id": "JuFT2tc",
+    "index": "TBL-02-08",
+    "item": "Renal and urinary system (including fluid and electrolyte balance)",
+    "file": "TBL0208",
+    "legend": "",
+    "number": "2-8",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0208"
+  },
+  "TBL0209": {
+    "id": "JuFT2tk",
+    "index": "TBL-02-09",
+    "item": "Reproductive system",
+    "file": "TBL0209",
+    "legend": "",
+    "number": "2-9",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0209"
+  },
+  "TBL0210": {
+    "id": "JuFT2to",
+    "index": "TBL-02-10",
+    "item": "Pregnancy and delivery",
+    "file": "TBL0210",
+    "legend": "",
+    "number": "2-10",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0210"
+  },
+  "TBL0211": {
+    "id": "JuFT2tw",
+    "index": "TBL-02-11",
+    "item": "Pediatrics",
+    "file": "TBL0211",
+    "legend": "",
+    "number": "2-11",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0211"
+  },
+  "TBL0212": {
+    "id": "JuFT2t0",
+    "index": "TBL-02-12",
+    "item": "Breast",
+    "file": "TBL0212",
+    "legend": "",
+    "number": "2-12",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0212"
+  },
+  "TBL0213": {
+    "id": "JuFT2t8",
+    "index": "TBL-02-13",
+    "item": "Endocrine, nutritional, and metabolic systems",
+    "file": "TBL0213",
+    "legend": "",
+    "number": "2-13",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0213"
+  },
+  "TBL0214": {
+    "id": "JuFT2uA",
+    "index": "TBL-02-14",
+    "item": "Ocular and visual system",
+    "file": "TBL0214",
+    "legend": "",
+    "number": "2-14",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0214"
+  },
+  "TBL0215": {
+    "id": "JuFT2uI",
+    "index": "TBL-02-15",
+    "item": "Ear, nose, throat, and oral cavity",
+    "file": "TBL0215",
+    "legend": "",
+    "number": "2-15",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0215"
+  },
+  "TBL0216": {
+    "id": "JuFT2uQ",
+    "index": "TBL-02-16",
+    "item": "Psychiatry",
+    "file": "TBL0216",
+    "legend": "",
+    "number": "2-16",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0216"
+  },
+  "TBL0217": {
+    "id": "JuFT2uU",
+    "index": "TBL-02-17",
+    "item": "Immunology and allergy",
+    "file": "TBL0217",
+    "legend": "",
+    "number": "2-17",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0217"
+  },
+  "TBL0218": {
+    "id": "JuFT2uc",
+    "index": "TBL-02-18",
+    "item": "Infectious diseases",
+    "file": "TBL0218",
+    "legend": "",
+    "number": "2-18",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0218"
+  },
+  "TBL0219": {
+    "id": "JuFT2ug",
+    "index": "TBL-02-19",
+    "item": "Cancers and neoplastic diseases",
+    "file": "TBL0219",
+    "legend": "The following does not include organ-specific symptoms.",
+    "number": "2-19",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0219"
+  },
+  "TBL0220": {
+    "id": "JuFT2uo",
+    "index": "TBL-02-20",
+    "item": "Emergency medicine and intensive care",
+    "file": "TBL0220",
+    "legend": "",
+    "number": "2-20",
+    "columns": {
+      "category": "Classification",
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0220"
+  },
+  "TBL0300": {
+    "id": "JuFT2us",
+    "index": "TBL-03-00",
+    "item": "Physical examinations",
+    "file": "TBL0300",
+    "legend": "",
+    "number": "3",
+    "columns": {
+      "item": "Items"
+    },
+    "main": "item",
+    "link": "/tables/TBL0300"
+  },
+  "TBL0400": {
+    "id": "JuFT2u0",
+    "index": "TBL-04-00",
+    "item": "Basic medical departments/specialties",
+    "file": "TBL0400",
+    "legend": "",
+    "number": "4",
+    "columns": {
+      "item": "Medical department/specialty"
+    },
+    "main": "item",
+    "link": "/tables/TBL0400"
+  },
+  "TBL0500": {
+    "id": "JuFT2u4",
+    "index": "TBL-05-00",
+    "item": "Major symptoms",
+    "file": "TBL0500",
+    "legend": "Diseases are listed in order from head to toe, and those that do not fall into that order are in order of condition.",
+    "number": "5",
+    "columns": {
+      "item": "Major Symptoms",
+      "ddx": "Differential diseases to consider"
+    },
+    "main": "item",
+    "link": "/tables/TBL0500"
+  },
+  "TBL0600": {
+    "id": "JuFT2vA",
+    "index": "TBL-06-00",
+    "item": "Major clinical and diagnostic imaging tests",
+    "file": "TBL0600",
+    "legend": "",
+    "number": "6",
+    "columns": {
+      "item": "Checklist"
+    },
+    "main": "item",
+    "link": "/tables/TBL0600"
+  },
+  "TBL0700": {
+    "id": "JuFT2vE",
+    "index": "TBL-07-00",
+    "item": "Basic clinical techniques",
+    "file": "TBL0700",
+    "legend": "*These techniques should be conducted in a simulation-based education setting for patient safety reasons. This does not preclude other basic clinical techniques and procedures from being performed with appropriate preparation and supervision.",
+    "number": "7",
+    "columns": {
+      "category": "Classification",
+      "item": "Basic clinical techniques"
+    },
+    "main": "item",
+    "link": "/tables/TBL0700"
+  }
+}

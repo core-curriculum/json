@@ -1,0 +1,647 @@
+{
+  "JmpZNJo": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0100",
+          "index": "1",
+          "title": "Table1. Diseases",
+          "id": "TBL0100"
+        },
+        "gap": 49,
+        "length": 6
+      }
+    ]
+  },
+  "JnIAstQ": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0201",
+          "index": "2-1",
+          "title": "Table2-1. Hematologic, hematopoietic, and lymphatic systems",
+          "id": "TBL0201"
+        },
+        "gap": 51,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAstY": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0202",
+          "index": "2-2",
+          "title": "Table2-2. Nervous system",
+          "id": "TBL0202"
+        },
+        "gap": 16,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAstc": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0203",
+          "index": "2-3",
+          "title": "Table2-3. Dermatological system",
+          "id": "TBL0203"
+        },
+        "gap": 23,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAstk": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0204",
+          "index": "2-4",
+          "title": "Table2-4. Musculoskeletal system",
+          "id": "TBL0204"
+        },
+        "gap": 24,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAsto": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0205",
+          "index": "2-5",
+          "title": "Table2-5. Cardiovascular system",
+          "id": "TBL0205"
+        },
+        "gap": 23,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAstw": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0206",
+          "index": "2-6",
+          "title": "Table2-6. Respiratory system",
+          "id": "TBL0206"
+        },
+        "gap": 20,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAst0": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0207",
+          "index": "2-7",
+          "title": "Table2-7. Digestive system",
+          "id": "TBL0207"
+        },
+        "gap": 18,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAst8": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0208",
+          "index": "2-8",
+          "title": "Table2-8. Renal and urinary system (including fluid and electrolyte balance)",
+          "id": "TBL0208"
+        },
+        "gap": 68,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAsuA": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0209",
+          "index": "2-9",
+          "title": "Table2-9. Reproductive system",
+          "id": "TBL0209"
+        },
+        "gap": 21,
+        "length": 8
+      }
+    ]
+  },
+  "JnIAsuI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0210",
+          "index": "2-10",
+          "title": "Table2-10. Pregnancy and delivery",
+          "id": "TBL0210"
+        },
+        "gap": 24,
+        "length": 9
+      }
+    ]
+  },
+  "JnIAsuM": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0211",
+          "index": "2-11",
+          "title": "Table2-11. Pediatrics",
+          "id": "TBL0211"
+        },
+        "gap": 12,
+        "length": 9
+      }
+    ]
+  },
+  "JnIAsuU": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0212",
+          "index": "2-12",
+          "title": "Table2-12. Breast",
+          "id": "TBL0212"
+        },
+        "gap": 8,
+        "length": 9
+      }
+    ]
+  },
+  "JnIAsuc": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0213",
+          "index": "2-13",
+          "title": "Table2-13. Endocrine, nutritional, and metabolic systems",
+          "id": "TBL0213"
+        },
+        "gap": 47,
+        "length": 9
+      }
+    ]
+  },
+  "JnIAsug": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0214",
+          "index": "2-14",
+          "title": "Table2-14. Ocular and visual system",
+          "id": "TBL0214"
+        },
+        "gap": 26,
+        "length": 9
+      }
+    ]
+  },
+  "JnIAsuo": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0215",
+          "index": "2-15",
+          "title": "Table2-15. Ear, nose, throat, and oral cavity",
+          "id": "TBL0215"
+        },
+        "gap": 36,
+        "length": 9
+      }
+    ]
+  },
+  "JnIAsus": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0216",
+          "index": "2-16",
+          "title": "Table2-16. Psychiatry",
+          "id": "TBL0216"
+        },
+        "gap": 12,
+        "length": 9
+      }
+    ]
+  },
+  "JnGUA2Q": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0100",
+          "index": "1",
+          "title": "Table1. Diseases",
+          "id": "TBL0100"
+        },
+        "gap": 206,
+        "length": 6
+      }
+    ]
+  },
+  "JnGUA2Y": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0217",
+          "index": "2-17",
+          "title": "Table2-17. Immunology and allergy",
+          "id": "TBL0217"
+        },
+        "gap": 132,
+        "length": 9
+      }
+    ]
+  },
+  "JnGUA2g": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0217",
+          "index": "2-17",
+          "title": "Table2-17. Immunology and allergy",
+          "id": "TBL0217"
+        },
+        "gap": 102,
+        "length": 9
+      }
+    ]
+  },
+  "JnGUA2o": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0217",
+          "index": "2-17",
+          "title": "Table2-17. Immunology and allergy",
+          "id": "TBL0217"
+        },
+        "gap": 137,
+        "length": 9
+      }
+    ]
+  },
+  "JnGUA2s": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0217",
+          "index": "2-17",
+          "title": "Table2-17. Immunology and allergy",
+          "id": "TBL0217"
+        },
+        "gap": 207,
+        "length": 9
+      }
+    ]
+  },
+  "JnIAsvA": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0218",
+          "index": "2-18",
+          "title": "Table2-18. Infectious diseases",
+          "id": "TBL0218"
+        },
+        "gap": 21,
+        "length": 9
+      }
+    ]
+  },
+  "JkxnuVc": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0100",
+          "index": "1",
+          "title": "Table1. Diseases",
+          "id": "TBL0100"
+        },
+        "gap": 41,
+        "length": 6
+      }
+    ]
+  },
+  "JkxnuXo": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0219",
+          "index": "2-19",
+          "title": "Table2-19. Cancers and neoplastic diseases",
+          "id": "TBL0219"
+        },
+        "gap": 49,
+        "length": 9
+      }
+    ]
+  },
+  "JnIAsvM": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0220",
+          "index": "2-20",
+          "title": "Table2-20. Emergency medicine and intensive care",
+          "id": "TBL0220"
+        },
+        "gap": 39,
+        "length": 9
+      }
+    ]
+  },
+  "Jm6NdFA": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0300",
+          "index": "3",
+          "title": "Table3. Physical examinations",
+          "id": "TBL0300"
+        },
+        "gap": 57,
+        "length": 6
+      }
+    ]
+  },
+  "Jkxiru4": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "Table4. Basic medical departments/specialties",
+          "id": "TBL0400"
+        },
+        "gap": 73,
+        "length": 6
+      }
+    ]
+  },
+  "JkxirvI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0500",
+          "index": "5",
+          "title": "Table5. Major symptoms",
+          "id": "TBL0500"
+        },
+        "gap": 61,
+        "length": 6
+      }
+    ]
+  },
+  "JkxirvM": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0500",
+          "index": "5",
+          "title": "Table5. Major symptoms",
+          "id": "TBL0500"
+        },
+        "gap": 63,
+        "length": 6
+      }
+    ]
+  },
+  "Jkxirvg": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "Table4. Basic medical departments/specialties",
+          "id": "TBL0400"
+        },
+        "gap": 149,
+        "length": 6
+      }
+    ]
+  },
+  "Jkxirvk": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "Table4. Basic medical departments/specialties",
+          "id": "TBL0400"
+        },
+        "gap": 109,
+        "length": 6
+      }
+    ]
+  },
+  "JkxirwI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "Table6. Major clinical and diagnostic imaging tests",
+          "id": "TBL0600"
+        },
+        "gap": 77,
+        "length": 6
+      }
+    ]
+  },
+  "JkxirwM": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "Table6. Major clinical and diagnostic imaging tests",
+          "id": "TBL0600"
+        },
+        "gap": 104,
+        "length": 6
+      }
+    ]
+  },
+  "JkxirwQ": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "Table6. Major clinical and diagnostic imaging tests",
+          "id": "TBL0600"
+        },
+        "gap": 60,
+        "length": 6
+      }
+    ]
+  },
+  "JkxirxE": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "Table6. Major clinical and diagnostic imaging tests",
+          "id": "TBL0600"
+        },
+        "gap": 303,
+        "length": 6
+      }
+    ]
+  },
+  "JkxirxI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "Table6. Major clinical and diagnostic imaging tests",
+          "id": "TBL0600"
+        },
+        "gap": 128,
+        "length": 6
+      }
+    ]
+  },
+  "Jm6NdFI": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0600",
+          "index": "6",
+          "title": "Table6. Major clinical and diagnostic imaging tests",
+          "id": "TBL0600"
+        },
+        "gap": 91,
+        "length": 6
+      }
+    ]
+  },
+  "Jkxirx0": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0500",
+          "index": "5",
+          "title": "Table5. Major symptoms",
+          "id": "TBL0500"
+        },
+        "gap": 41,
+        "length": 6
+      }
+    ]
+  },
+  "Jkxir20": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "Table4. Basic medical departments/specialties",
+          "id": "TBL0400"
+        },
+        "gap": 100,
+        "length": 6
+      }
+    ]
+  },
+  "Jkxir3E": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0700",
+          "index": "7",
+          "title": "Table7. Basic clinical techniques",
+          "id": "TBL0700"
+        },
+        "gap": 60,
+        "length": 6
+      }
+    ]
+  },
+  "Jkxir3I": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0700",
+          "index": "7",
+          "title": "Table7. Basic clinical techniques",
+          "id": "TBL0700"
+        },
+        "gap": 56,
+        "length": 6
+      }
+    ]
+  },
+  "Jkxir4Q": {
+    "item": [
+      {
+        "info": {
+          "type": "tableLink",
+          "url": "/tables/TBL0400",
+          "index": "4",
+          "title": "Table4. Basic medical departments/specialties",
+          "id": "TBL0400"
+        },
+        "gap": 76,
+        "length": 6
+      }
+    ]
+  }
+}
