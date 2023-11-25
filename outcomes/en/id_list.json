@@ -18461,7 +18461,8 @@
       "type": "TBL0500",
       "index": "TBL-05-00-006",
       "item": "Altered mental status",
-      "ddx": "Cerebral hemorrhage, cerebral infarction, intracranial hematoma, encephalitis, epilepsy, subarachnoid hemorrhage, meningitis, myocardial infarction, acute aortic dissection, acute gastrointestinal bleeding, sepsis, drug intoxication, alcoholic intoxication, carbon dioxide (CO2) narcosis, hypoglycemia, abnormal sodium metabolism, shock"
+      "ddx": "Cerebral hemorrhage, cerebral infarction, intracranial hematoma, encephalitis, epilepsy, subarachnoid hemorrhage, meningitis, myocardial infarction, acute aortic dissection, acute gastrointestinal bleeding, sepsis, drug intoxication, alcoholic intoxication, carbon dioxide (CO2) narcosis, hypoglycemia, abnormal sodium metabolism, shock",
+      "withAttr": true
     }
   ],
   [
