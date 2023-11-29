@@ -13,7 +13,13 @@
       "core": "Core requirement"
     },
     "main": "item",
-    "link": "/tables/TBL0100"
+    "link": "/tables/TBL0100",
+    "header": [
+      "system",
+      "category",
+      "item",
+      "core"
+    ]
   },
   "TBL0201": {
     "id": "JuFT2sw",
@@ -27,7 +33,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0201"
+    "link": "/tables/TBL0201",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0202": {
     "id": "JuFT2s4",
@@ -41,7 +51,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0202"
+    "link": "/tables/TBL0202",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0203": {
     "id": "JuFT2s8",
@@ -55,7 +69,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0203"
+    "link": "/tables/TBL0203",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0204": {
     "id": "JuFT2tE",
@@ -69,7 +87,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0204"
+    "link": "/tables/TBL0204",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0205": {
     "id": "JuFT2tI",
@@ -83,7 +105,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0205"
+    "link": "/tables/TBL0205",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0206": {
     "id": "JuFT2tQ",
@@ -97,7 +123,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0206"
+    "link": "/tables/TBL0206",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0207": {
     "id": "JuFT2tY",
@@ -111,7 +141,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0207"
+    "link": "/tables/TBL0207",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0208": {
     "id": "JuFT2tc",
@@ -125,7 +159,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0208"
+    "link": "/tables/TBL0208",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0209": {
     "id": "JuFT2tk",
@@ -139,7 +177,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0209"
+    "link": "/tables/TBL0209",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0210": {
     "id": "JuFT2to",
@@ -153,7 +195,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0210"
+    "link": "/tables/TBL0210",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0211": {
     "id": "JuFT2tw",
@@ -167,7 +213,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0211"
+    "link": "/tables/TBL0211",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0212": {
     "id": "JuFT2t0",
@@ -181,7 +231,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0212"
+    "link": "/tables/TBL0212",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0213": {
     "id": "JuFT2t8",
@@ -195,7 +249,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0213"
+    "link": "/tables/TBL0213",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0214": {
     "id": "JuFT2uA",
@@ -209,7 +267,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0214"
+    "link": "/tables/TBL0214",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0215": {
     "id": "JuFT2uI",
@@ -223,7 +285,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0215"
+    "link": "/tables/TBL0215",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0216": {
     "id": "JuFT2uQ",
@@ -237,7 +303,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0216"
+    "link": "/tables/TBL0216",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0217": {
     "id": "JuFT2uU",
@@ -251,7 +321,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0217"
+    "link": "/tables/TBL0217",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0218": {
     "id": "JuFT2uc",
@@ -265,7 +339,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0218"
+    "link": "/tables/TBL0218",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0219": {
     "id": "JuFT2ug",
@@ -279,7 +357,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0219"
+    "link": "/tables/TBL0219",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0220": {
     "id": "JuFT2uo",
@@ -293,7 +375,11 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0220"
+    "link": "/tables/TBL0220",
+    "header": [
+      "category",
+      "item"
+    ]
   },
   "TBL0300": {
     "id": "JuFT2us",
@@ -306,7 +392,10 @@
       "item": "Items"
     },
     "main": "item",
-    "link": "/tables/TBL0300"
+    "link": "/tables/TBL0300",
+    "header": [
+      "item"
+    ]
   },
   "TBL0400": {
     "id": "JuFT2u0",
@@ -319,7 +408,10 @@
       "item": "Medical department/specialty"
     },
     "main": "item",
-    "link": "/tables/TBL0400"
+    "link": "/tables/TBL0400",
+    "header": [
+      "item"
+    ]
   },
   "TBL0500": {
     "id": "JuFT2u4",
@@ -333,7 +425,11 @@
       "ddx": "Differential diseases to consider"
     },
     "main": "item",
-    "link": "/tables/TBL0500"
+    "link": "/tables/TBL0500",
+    "header": [
+      "item",
+      "ddx"
+    ]
   },
   "TBL0600": {
     "id": "JuFT2vA",
@@ -346,7 +442,10 @@
       "item": "Checklist"
     },
     "main": "item",
-    "link": "/tables/TBL0600"
+    "link": "/tables/TBL0600",
+    "header": [
+      "item"
+    ]
   },
   "TBL0700": {
     "id": "JuFT2vE",
@@ -360,6 +459,10 @@
       "item": "Basic clinical techniques"
     },
     "main": "item",
-    "link": "/tables/TBL0700"
+    "link": "/tables/TBL0700",
+    "header": [
+      "category",
+      "item"
+    ]
   }
 }

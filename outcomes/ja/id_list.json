@@ -6251,7 +6251,13 @@
         "core": "基本"
       },
       "main": "item",
-      "link": "/tables/TBL0100"
+      "link": "/tables/TBL0100",
+      "header": [
+        "system",
+        "category",
+        "item",
+        "core"
+      ]
     }
   ],
   [
@@ -13881,7 +13887,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0201"
+      "link": "/tables/TBL0201",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -14105,7 +14115,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0202"
+      "link": "/tables/TBL0202",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -14455,7 +14469,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0203"
+      "link": "/tables/TBL0203",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -14598,7 +14616,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0204"
+      "link": "/tables/TBL0204",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -14786,7 +14808,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0205"
+      "link": "/tables/TBL0205",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -15100,7 +15126,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0206"
+      "link": "/tables/TBL0206",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -15361,7 +15391,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0207"
+      "link": "/tables/TBL0207",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -15684,7 +15718,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0208"
+      "link": "/tables/TBL0208",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -15872,7 +15910,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0209"
+      "link": "/tables/TBL0209",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16123,7 +16165,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0210"
+      "link": "/tables/TBL0210",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16284,7 +16330,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0211"
+      "link": "/tables/TBL0211",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16526,7 +16576,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0212"
+      "link": "/tables/TBL0212",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16624,7 +16678,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0213"
+      "link": "/tables/TBL0213",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16803,7 +16861,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0214"
+      "link": "/tables/TBL0214",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16991,7 +17053,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0215"
+      "link": "/tables/TBL0215",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17251,7 +17317,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0216"
+      "link": "/tables/TBL0216",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17439,7 +17509,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0217"
+      "link": "/tables/TBL0217",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17564,7 +17638,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0218"
+      "link": "/tables/TBL0218",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17833,7 +17911,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0219"
+      "link": "/tables/TBL0219",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17895,7 +17977,11 @@
         "item": "項目名"
       },
       "main": "item",
-      "link": "/tables/TBL0220"
+      "link": "/tables/TBL0220",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17992,7 +18078,10 @@
         "item": "診察項目"
       },
       "main": "item",
-      "link": "/tables/TBL0300"
+      "link": "/tables/TBL0300",
+      "header": [
+        "item"
+      ]
     }
   ],
   [
@@ -18240,7 +18329,10 @@
         "item": "診療科"
       },
       "main": "item",
-      "link": "/tables/TBL0400"
+      "link": "/tables/TBL0400",
+      "header": [
+        "item"
+      ]
     }
   ],
   [
@@ -18409,7 +18501,11 @@
         "ddx": "検討すべき鑑別疾患"
       },
       "main": "item",
-      "link": "/tables/TBL0500"
+      "link": "/tables/TBL0500",
+      "header": [
+        "item",
+        "ddx"
+      ]
     }
   ],
   [
@@ -18759,7 +18855,10 @@
         "item": "検査項目"
       },
       "main": "item",
-      "link": "/tables/TBL0600"
+      "link": "/tables/TBL0600",
+      "header": [
+        "item"
+      ]
     }
   ],
   [
@@ -18976,7 +19075,11 @@
         "item": "基本的臨床手技"
       },
       "main": "item",
-      "link": "/tables/TBL0700"
+      "link": "/tables/TBL0700",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [

@@ -6251,7 +6251,13 @@
         "core": "Core requirement"
       },
       "main": "item",
-      "link": "/tables/TBL0100"
+      "link": "/tables/TBL0100",
+      "header": [
+        "system",
+        "category",
+        "item",
+        "core"
+      ]
     }
   ],
   [
@@ -13880,7 +13886,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0201"
+      "link": "/tables/TBL0201",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -14104,7 +14114,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0202"
+      "link": "/tables/TBL0202",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -14454,7 +14468,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0203"
+      "link": "/tables/TBL0203",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -14597,7 +14615,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0204"
+      "link": "/tables/TBL0204",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -14785,7 +14807,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0205"
+      "link": "/tables/TBL0205",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -15099,7 +15125,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0206"
+      "link": "/tables/TBL0206",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -15359,7 +15389,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0207"
+      "link": "/tables/TBL0207",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -15682,7 +15716,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0208"
+      "link": "/tables/TBL0208",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -15870,7 +15908,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0209"
+      "link": "/tables/TBL0209",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16121,7 +16163,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0210"
+      "link": "/tables/TBL0210",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16282,7 +16328,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0211"
+      "link": "/tables/TBL0211",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16524,7 +16574,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0212"
+      "link": "/tables/TBL0212",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16622,7 +16676,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0213"
+      "link": "/tables/TBL0213",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16801,7 +16859,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0214"
+      "link": "/tables/TBL0214",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -16989,7 +17051,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0215"
+      "link": "/tables/TBL0215",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17249,7 +17315,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0216"
+      "link": "/tables/TBL0216",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17437,7 +17507,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0217"
+      "link": "/tables/TBL0217",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17562,7 +17636,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0218"
+      "link": "/tables/TBL0218",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17831,7 +17909,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0219"
+      "link": "/tables/TBL0219",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17893,7 +17975,11 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0220"
+      "link": "/tables/TBL0220",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
@@ -17990,7 +18076,10 @@
         "item": "Items"
       },
       "main": "item",
-      "link": "/tables/TBL0300"
+      "link": "/tables/TBL0300",
+      "header": [
+        "item"
+      ]
     }
   ],
   [
@@ -18238,7 +18327,10 @@
         "item": "Medical department/specialty"
       },
       "main": "item",
-      "link": "/tables/TBL0400"
+      "link": "/tables/TBL0400",
+      "header": [
+        "item"
+      ]
     }
   ],
   [
@@ -18407,7 +18499,11 @@
         "ddx": "Differential diseases to consider"
       },
       "main": "item",
-      "link": "/tables/TBL0500"
+      "link": "/tables/TBL0500",
+      "header": [
+        "item",
+        "ddx"
+      ]
     }
   ],
   [
@@ -18757,7 +18853,10 @@
         "item": "Checklist"
       },
       "main": "item",
-      "link": "/tables/TBL0600"
+      "link": "/tables/TBL0600",
+      "header": [
+        "item"
+      ]
     }
   ],
   [
@@ -18974,7 +19073,11 @@
         "item": "Basic clinical techniques"
       },
       "main": "item",
-      "link": "/tables/TBL0700"
+      "link": "/tables/TBL0700",
+      "header": [
+        "category",
+        "item"
+      ]
     }
   ],
   [
