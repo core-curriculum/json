@@ -5,7 +5,7 @@
     "title": "PR",
     "url": "https://vimeo.com/864873939/65473e5812",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "864873939",
     "data": {
       "type": "video",
@@ -31,7 +31,8 @@
       "uri": "/videos/864873939",
       "player_url": "https://player.vimeo.com/video/864873939?autoplay=1&app_id=122963",
       "id": "864873939"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -39,7 +40,7 @@
     "title": "GE",
     "url": "https://vimeo.com/860370030/f561430a27",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "860370030",
     "data": {
       "type": "video",
@@ -65,7 +66,8 @@
       "uri": "/videos/860370030",
       "player_url": "https://player.vimeo.com/video/860370030?autoplay=1&app_id=122963",
       "id": "860370030"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -73,7 +75,7 @@
     "title": "GE教育実践事例",
     "url": "https://vimeo.com/858942045/6f51fdc598",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "858942045",
     "data": {
       "type": "video",
@@ -99,7 +101,8 @@
       "uri": "/videos/858942045",
       "player_url": "https://player.vimeo.com/video/858942045?autoplay=1&app_id=122963",
       "id": "858942045"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -107,7 +110,7 @@
     "title": "LL",
     "url": "https://vimeo.com/859824126/c2be2d0fe3",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "859824126",
     "data": {
       "type": "video",
@@ -133,7 +136,8 @@
       "uri": "/videos/859824126",
       "player_url": "https://player.vimeo.com/video/859824126?autoplay=1&app_id=122963",
       "id": "859824126"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -141,7 +145,7 @@
     "title": "RE",
     "url": "https://vimeo.com/851151112/d8ee3ea1ab",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "851151112",
     "data": {
       "type": "video",
@@ -167,7 +171,8 @@
       "uri": "/videos/851151112",
       "player_url": "https://player.vimeo.com/video/851151112?autoplay=1&app_id=122963",
       "id": "851151112"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -175,7 +180,7 @@
     "title": "IT",
     "url": "https://vimeo.com/847240693/dc096553f0",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "847240693",
     "data": {
       "type": "video",
@@ -201,7 +206,8 @@
       "uri": "/videos/847240693",
       "player_url": "https://player.vimeo.com/video/847240693?autoplay=1&app_id=122963",
       "id": "847240693"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -209,7 +215,7 @@
     "title": "CS",
     "url": "https://vimeo.com/861586373/983475784c",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "861586373",
     "data": {
       "type": "video",
@@ -235,7 +241,8 @@
       "uri": "/videos/861586373",
       "player_url": "https://player.vimeo.com/video/861586373?autoplay=1&app_id=122963",
       "id": "861586373"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -243,7 +250,7 @@
     "title": "CM",
     "url": "https://vimeo.com/861724890/daf8c614f4",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "861724890",
     "data": {
       "type": "video",
@@ -269,7 +276,8 @@
       "uri": "/videos/861724890",
       "player_url": "https://player.vimeo.com/video/861724890?autoplay=1&app_id=122963",
       "id": "861724890"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -277,7 +285,7 @@
     "title": "IP",
     "url": "https://vimeo.com/852680523/6bcefe235d",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "852680523",
     "data": {
       "type": "video",
@@ -303,7 +311,8 @@
       "uri": "/videos/852680523",
       "player_url": "https://player.vimeo.com/video/852680523?autoplay=1&app_id=122963",
       "id": "852680523"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -311,7 +320,7 @@
     "title": "IP教育実践事例",
     "url": "https://vimeo.com/852680431/104184423c",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "852680431",
     "data": {
       "type": "video",
@@ -337,7 +346,8 @@
       "uri": "/videos/852680431",
       "player_url": "https://player.vimeo.com/video/852680431?autoplay=1&app_id=122963",
       "id": "852680431"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -345,7 +355,7 @@
     "title": "SO",
     "url": "https://vimeo.com/861585007/8c9463d1ed",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "861585007",
     "data": {
       "type": "video",
@@ -371,7 +381,8 @@
       "uri": "/videos/861585007",
       "player_url": "https://player.vimeo.com/video/861585007?autoplay=1&app_id=122963",
       "id": "861585007"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力総論",
@@ -379,7 +390,7 @@
     "title": "改訂コアカリを診療参加型実習にどう取り入れるか",
     "url": "https://vimeo.com/889340893",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "889340893",
     "data": {
       "type": "video",
@@ -405,7 +416,8 @@
       "uri": "/videos/889340893",
       "player_url": "https://player.vimeo.com/video/889340893?autoplay=1&app_id=122963",
       "id": "889340893"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -413,7 +425,7 @@
     "title": "SOGIに関する基本事項",
     "url": "https://vimeo.com/893179044/f14856d52c",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "893179044",
     "data": {
       "type": "video",
@@ -439,7 +451,8 @@
       "uri": "/videos/893179044",
       "player_url": "https://player.vimeo.com/video/893179044?autoplay=1&app_id=122963",
       "id": "893179044"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -447,7 +460,7 @@
     "title": "多様なSOGIへの配慮",
     "url": "https://vimeo.com/893179065/82584d45f3",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "893179065",
     "data": {
       "type": "video",
@@ -473,7 +486,8 @@
       "uri": "/videos/893179065",
       "player_url": "https://player.vimeo.com/video/893179065?autoplay=1&app_id=122963",
       "id": "893179065"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -481,7 +495,7 @@
     "title": "LGBTQの健康格差とその背景（SDHの視点から）",
     "url": "https://vimeo.com/893179077/3f7e3398ff",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "893179077",
     "data": {
       "type": "video",
@@ -507,7 +521,8 @@
       "uri": "/videos/893179077",
       "player_url": "https://player.vimeo.com/video/893179077?autoplay=1&app_id=122963",
       "id": "893179077"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -515,7 +530,7 @@
     "title": "性の多様性と医療の歴史",
     "url": "https://vimeo.com/893179096/6abf0fa97f",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "893179096",
     "data": {
       "type": "video",
@@ -541,7 +556,8 @@
       "uri": "/videos/893179096",
       "player_url": "https://player.vimeo.com/video/893179096?autoplay=1&app_id=122963",
       "id": "893179096"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -549,7 +565,7 @@
     "title": "個人ワーク",
     "url": "https://vimeo.com/893179120/f2f438f2ef",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "893179120",
     "data": {
       "type": "video",
@@ -575,7 +591,8 @@
       "uri": "/videos/893179120",
       "player_url": "https://player.vimeo.com/video/893179120?autoplay=1&app_id=122963",
       "id": "893179120"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -583,7 +600,7 @@
     "title": "医療機関での対応について",
     "url": "https://vimeo.com/893179150/59aee6487f",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "893179150",
     "data": {
       "type": "video",
@@ -609,7 +626,8 @@
       "uri": "/videos/893179150",
       "player_url": "https://player.vimeo.com/video/893179150?autoplay=1&app_id=122963",
       "id": "893179150"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -617,7 +635,7 @@
     "title": "LGBTQ当事者医師の語り",
     "url": "https://vimeo.com/893179174/cf8b71a2de",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "893179174",
     "data": {
       "type": "video",
@@ -643,7 +661,8 @@
       "uri": "/videos/893179174",
       "player_url": "https://player.vimeo.com/video/893179174?autoplay=1&app_id=122963",
       "id": "893179174"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -651,7 +670,7 @@
     "title": "オープニング",
     "url": "https://vimeo.com/901163935/dc8523b168",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "901163935",
     "data": {
       "type": "video",
@@ -677,7 +696,8 @@
       "uri": "/videos/901163935:dc8523b168",
       "player_url": "https://player.vimeo.com/video/901163935?h=dc8523b168&autoplay=1&app_id=122963",
       "id": "901163935"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -685,7 +705,7 @@
     "title": "プラネタリーヘルス",
     "url": "https://vimeo.com/901164034/7d00c6e8df",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "901164034",
     "data": {
       "type": "video",
@@ -711,7 +731,8 @@
       "uri": "/videos/901164034:7d00c6e8df",
       "player_url": "https://player.vimeo.com/video/901164034?h=7d00c6e8df&autoplay=1&app_id=122963",
       "id": "901164034"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -719,7 +740,7 @@
     "title": "地球温暖化とその原因",
     "url": "https://vimeo.com/901164531/02f449b722",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "901164531",
     "data": {
       "type": "video",
@@ -745,7 +766,8 @@
       "uri": "/videos/901164531:02f449b722",
       "player_url": "https://player.vimeo.com/video/901164531?h=02f449b722&autoplay=1&app_id=122963",
       "id": "901164531"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -753,7 +775,7 @@
     "title": "人間の健康への影響",
     "url": "https://vimeo.com/901164688/e5924fd19f",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "901164688",
     "data": {
       "type": "video",
@@ -779,7 +801,8 @@
       "uri": "/videos/901164688:e5924fd19f",
       "player_url": "https://player.vimeo.com/video/901164688?h=e5924fd19f&autoplay=1&app_id=122963",
       "id": "901164688"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -787,7 +810,7 @@
     "title": "気候変動に対して医療従事者ができること",
     "url": "https://vimeo.com/901164815/a87028e5a3",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "901164815",
     "data": {
       "type": "video",
@@ -813,7 +836,8 @@
       "uri": "/videos/901164815:a87028e5a3",
       "player_url": "https://player.vimeo.com/video/901164815?h=a87028e5a3&autoplay=1&app_id=122963",
       "id": "901164815"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -821,7 +845,7 @@
     "title": "クロージング",
     "url": "https://vimeo.com/901165008/2a37b34c11",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "901165008",
     "data": {
       "type": "video",
@@ -847,7 +871,8 @@
       "uri": "/videos/901165008:2a37b34c11",
       "player_url": "https://player.vimeo.com/video/901165008?h=2a37b34c11&autoplay=1&app_id=122963",
       "id": "901165008"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -855,7 +880,7 @@
     "title": "[哲学と医療の関係」と「医学の全体像」",
     "url": "https://vimeo.com/868994364/c8659ea2c1",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "868994364",
     "data": {
       "type": "video",
@@ -881,7 +906,8 @@
       "uri": "/videos/868994364",
       "player_url": "https://player.vimeo.com/video/868994364?autoplay=1&app_id=122963",
       "id": "868994364"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -889,7 +915,7 @@
     "title": "科学革命とパラダイムシフト",
     "url": "https://vimeo.com/878146694/c72009f853",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "878146694",
     "data": {
       "type": "video",
@@ -915,7 +941,8 @@
       "uri": "/videos/878146694",
       "player_url": "https://player.vimeo.com/video/878146694?autoplay=1&app_id=122963",
       "id": "878146694"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -923,7 +950,7 @@
     "title": "医学における科学論",
     "url": "https://vimeo.com/868996453/7b9600c8a3",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "868996453",
     "data": {
       "type": "video",
@@ -949,7 +976,8 @@
       "uri": "/videos/868996453",
       "player_url": "https://player.vimeo.com/video/868996453?autoplay=1&app_id=122963",
       "id": "868996453"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -957,7 +985,7 @@
     "title": "医学における人間観の変化",
     "url": "https://vimeo.com/878146719/3c9987c051",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "878146719",
     "data": {
       "type": "video",
@@ -983,7 +1011,8 @@
       "uri": "/videos/878146719",
       "player_url": "https://player.vimeo.com/video/878146719?autoplay=1&app_id=122963",
       "id": "878146719"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -991,7 +1020,7 @@
     "title": "次元的人間論と関連する思想哲学",
     "url": "https://vimeo.com/878146757/46e00ca3fd",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "878146757",
     "data": {
       "type": "video",
@@ -1017,7 +1046,8 @@
       "uri": "/videos/878146757",
       "player_url": "https://player.vimeo.com/video/878146757?autoplay=1&app_id=122963",
       "id": "878146757"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1025,7 +1055,7 @@
     "title": "医療倫理における人格と尊厳および医学が目指す価値",
     "url": "https://vimeo.com/878156098/69ffe0db5d",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "878156098",
     "data": {
       "type": "video",
@@ -1051,7 +1081,8 @@
       "uri": "/videos/878156098",
       "player_url": "https://player.vimeo.com/video/878156098?autoplay=1&app_id=122963",
       "id": "878156098"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1059,7 +1090,7 @@
     "title": "近現代思想・哲学と現代医療",
     "url": "https://vimeo.com/878156126/a47dcf604e",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "878156126",
     "data": {
       "type": "video",
@@ -1085,7 +1116,8 @@
       "uri": "/videos/878156126",
       "player_url": "https://player.vimeo.com/video/878156126?autoplay=1&app_id=122963",
       "id": "878156126"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1093,7 +1125,7 @@
     "title": "経済学の定義と医療経済学の範囲、医療サービスの経済学的特性",
     "url": "https://vimeo.com/868998079/0879d21fb8",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "868998079",
     "data": {
       "type": "video",
@@ -1119,7 +1151,8 @@
       "uri": "/videos/868998079",
       "player_url": "https://player.vimeo.com/video/868998079?autoplay=1&app_id=122963",
       "id": "868998079"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1127,7 +1160,7 @@
     "title": "医療サービス市場に対する規制",
     "url": "https://vimeo.com/874740512/409518b346",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "874740512",
     "data": {
       "type": "video",
@@ -1153,7 +1186,8 @@
       "uri": "/videos/874740512",
       "player_url": "https://player.vimeo.com/video/874740512?autoplay=1&app_id=122963",
       "id": "874740512"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1161,7 +1195,7 @@
     "title": "保険の理論と実際",
     "url": "https://vimeo.com/874740540/5b106b1c83",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "874740540",
     "data": {
       "type": "video",
@@ -1187,7 +1221,8 @@
       "uri": "/videos/874740540",
       "player_url": "https://player.vimeo.com/video/874740540?autoplay=1&app_id=122963",
       "id": "874740540"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1195,7 +1230,7 @@
     "title": "医療費増加の要因",
     "url": "https://vimeo.com/874740580/b6d2c61192",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "874740580",
     "data": {
       "type": "video",
@@ -1221,7 +1256,8 @@
       "uri": "/videos/874740580",
       "player_url": "https://player.vimeo.com/video/874740580?autoplay=1&app_id=122963",
       "id": "874740580"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1229,7 +1265,7 @@
     "title": "医療サービスの費用効果分析",
     "url": "https://vimeo.com/874740634/e12cbbb7d2",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "874740634",
     "data": {
       "type": "video",
@@ -1255,7 +1291,8 @@
       "uri": "/videos/874740634",
       "player_url": "https://player.vimeo.com/video/874740634?autoplay=1&app_id=122963",
       "id": "874740634"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1263,7 +1300,7 @@
     "title": "AI数理科学概論",
     "url": "https://vimeo.com/894010287/abecbd890e",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "894010287",
     "data": {
       "type": "video",
@@ -1289,7 +1326,8 @@
       "uri": "/videos/894010287",
       "player_url": "https://player.vimeo.com/video/894010287?autoplay=1&app_id=122963",
       "id": "894010287"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1297,7 +1335,7 @@
     "title": "機械学習入門①（教師あり学習）",
     "url": "https://vimeo.com/894010316/d065304ff1",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "894010316",
     "data": {
       "type": "video",
@@ -1323,7 +1361,8 @@
       "uri": "/videos/894010316",
       "player_url": "https://player.vimeo.com/video/894010316?autoplay=1&app_id=122963",
       "id": "894010316"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1331,7 +1370,7 @@
     "title": "機械学習入門②（教師なし学習①）",
     "url": "https://vimeo.com/894010346/15a5fc8024",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "894010346",
     "data": {
       "type": "video",
@@ -1357,7 +1396,8 @@
       "uri": "/videos/894010346",
       "player_url": "https://player.vimeo.com/video/894010346?autoplay=1&app_id=122963",
       "id": "894010346"
-    }
+    },
+    "filesInfo": []
   },
   {
     "category": "資質・能力各論",
@@ -1365,7 +1405,7 @@
     "title": "機械学習入門③（教師なし学習②）",
     "url": "https://vimeo.com/894010380/8e4f75ca3d",
     "description": "",
-    "files": "",
+    "files": [],
     "id": "894010380",
     "data": {
       "type": "video",
@@ -1391,6 +1431,7 @@
       "uri": "/videos/894010380",
       "player_url": "https://player.vimeo.com/video/894010380?autoplay=1&app_id=122963",
       "id": "894010380"
-    }
+    },
+    "filesInfo": []
   }
 ]
