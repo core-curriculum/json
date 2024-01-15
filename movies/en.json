@@ -1,7 +1,7 @@
 [
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "PR",
     "url": "https://vimeo.com/864873939/65473e5812",
     "description": "",
@@ -35,8 +35,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "GE",
     "url": "https://vimeo.com/860370030/f561430a27",
     "description": "",
@@ -70,8 +70,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "GE教育実践事例",
     "url": "https://vimeo.com/858942045/6f51fdc598",
     "description": "",
@@ -105,8 +105,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "LL",
     "url": "https://vimeo.com/859824126/c2be2d0fe3",
     "description": "",
@@ -140,8 +140,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "RE",
     "url": "https://vimeo.com/851151112/d8ee3ea1ab",
     "description": "",
@@ -175,8 +175,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "IT",
     "url": "https://vimeo.com/847240693/dc096553f0",
     "description": "",
@@ -210,8 +210,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "CS",
     "url": "https://vimeo.com/861586373/983475784c",
     "description": "",
@@ -245,8 +245,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "CM",
     "url": "https://vimeo.com/861724890/daf8c614f4",
     "description": "",
@@ -280,8 +280,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "IP",
     "url": "https://vimeo.com/852680523/6bcefe235d",
     "description": "",
@@ -315,8 +315,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "実践例",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "IP教育実践事例",
     "url": "https://vimeo.com/852680431/104184423c",
     "description": "",
@@ -350,8 +350,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "総論",
+    "category": "資質・能力の解説",
+    "sub-category": "",
     "title": "SO",
     "url": "https://vimeo.com/861585007/8c9463d1ed",
     "description": "",
@@ -385,8 +385,8 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力総論",
-    "sub-category": "コアカリFDオンラインシンポジウム",
+    "category": "シンポジウムの記録",
+    "sub-category": "シンポジウムの記録",
     "title": "改訂コアカリを診療参加型実習にどう取り入れるか",
     "url": "https://vimeo.com/889340893",
     "description": "",
@@ -420,9 +420,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "ジェンダーと医療",
-    "title": "SOGIに関する基本事項",
+    "category": "講義動画",
+    "sub-category": "A_ジェンダーと医療",
+    "title": "A1_SOGIに関する基本事項",
     "url": "https://vimeo.com/893179044/f14856d52c",
     "description": "",
     "files": [],
@@ -455,9 +455,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "ジェンダーと医療",
-    "title": "多様なSOGIへの配慮",
+    "category": "講義動画",
+    "sub-category": "A_ジェンダーと医療",
+    "title": "A2_多様なSOGIへの配慮",
     "url": "https://vimeo.com/893179065/82584d45f3",
     "description": "",
     "files": [],
@@ -490,9 +490,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "ジェンダーと医療",
-    "title": "LGBTQの健康格差とその背景（SDHの視点から）",
+    "category": "講義動画",
+    "sub-category": "A_ジェンダーと医療",
+    "title": "A3_LGBTQの健康格差とその背景（SDHの視点から）",
     "url": "https://vimeo.com/893179077/3f7e3398ff",
     "description": "",
     "files": [],
@@ -525,9 +525,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "ジェンダーと医療",
-    "title": "性の多様性と医療の歴史",
+    "category": "講義動画",
+    "sub-category": "A_ジェンダーと医療",
+    "title": "A4_性の多様性と医療の歴史",
     "url": "https://vimeo.com/893179096/6abf0fa97f",
     "description": "",
     "files": [],
@@ -560,9 +560,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "ジェンダーと医療",
-    "title": "個人ワーク",
+    "category": "講義動画",
+    "sub-category": "A_ジェンダーと医療",
+    "title": "A5_個人ワーク",
     "url": "https://vimeo.com/893179120/f2f438f2ef",
     "description": "",
     "files": [],
@@ -595,9 +595,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "ジェンダーと医療",
-    "title": "医療機関での対応について",
+    "category": "講義動画",
+    "sub-category": "A_ジェンダーと医療",
+    "title": "A6_医療機関での対応について",
     "url": "https://vimeo.com/893179150/59aee6487f",
     "description": "",
     "files": [],
@@ -630,9 +630,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "ジェンダーと医療",
-    "title": "LGBTQ当事者医師の語り",
+    "category": "講義動画",
+    "sub-category": "A_ジェンダーと医療",
+    "title": "A7_LGBTQ当事者医師の語り",
     "url": "https://vimeo.com/893179174/cf8b71a2de",
     "description": "",
     "files": [],
@@ -665,9 +665,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "気候変動と医療",
-    "title": "オープニング",
+    "category": "講義動画",
+    "sub-category": "B_気候変動と医療",
+    "title": "B1_オープニング",
     "url": "https://vimeo.com/901163935/dc8523b168",
     "description": "",
     "files": [],
@@ -700,9 +700,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "気候変動と医療",
-    "title": "プラネタリーヘルス",
+    "category": "講義動画",
+    "sub-category": "B_気候変動と医療",
+    "title": "B2_プラネタリーヘルス",
     "url": "https://vimeo.com/901164034/7d00c6e8df",
     "description": "",
     "files": [],
@@ -735,9 +735,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "気候変動と医療",
-    "title": "地球温暖化とその原因",
+    "category": "講義動画",
+    "sub-category": "B_気候変動と医療",
+    "title": "B3_地球温暖化とその原因",
     "url": "https://vimeo.com/901164531/02f449b722",
     "description": "",
     "files": [],
@@ -770,9 +770,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "気候変動と医療",
-    "title": "人間の健康への影響",
+    "category": "講義動画",
+    "sub-category": "B_気候変動と医療",
+    "title": "B4_人間の健康への影響",
     "url": "https://vimeo.com/901164688/e5924fd19f",
     "description": "",
     "files": [],
@@ -805,9 +805,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "気候変動と医療",
-    "title": "気候変動に対して医療従事者ができること",
+    "category": "講義動画",
+    "sub-category": "B_気候変動と医療",
+    "title": "B5_気候変動に対して医療従事者ができること",
     "url": "https://vimeo.com/901164815/a87028e5a3",
     "description": "",
     "files": [],
@@ -840,9 +840,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "気候変動と医療",
-    "title": "クロージング",
+    "category": "講義動画",
+    "sub-category": "B_気候変動と医療",
+    "title": "B6_クロージング",
     "url": "https://vimeo.com/901165008/2a37b34c11",
     "description": "",
     "files": [],
@@ -875,9 +875,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "哲学と医療",
-    "title": "[哲学と医療の関係」と「医学の全体像」",
+    "category": "講義動画",
+    "sub-category": "C_哲学と医療",
+    "title": "C1_[哲学と医療の関係」と「医学の全体像」",
     "url": "https://vimeo.com/868994364/c8659ea2c1",
     "description": "",
     "files": [],
@@ -910,9 +910,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "哲学と医療",
-    "title": "科学革命とパラダイムシフト",
+    "category": "講義動画",
+    "sub-category": "C_哲学と医療",
+    "title": "C2_科学革命とパラダイムシフト",
     "url": "https://vimeo.com/878146694/c72009f853",
     "description": "",
     "files": [],
@@ -945,9 +945,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "哲学と医療",
-    "title": "医学における科学論",
+    "category": "講義動画",
+    "sub-category": "C_哲学と医療",
+    "title": "C3_医学における科学論",
     "url": "https://vimeo.com/868996453/7b9600c8a3",
     "description": "",
     "files": [],
@@ -980,9 +980,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "哲学と医療",
-    "title": "医学における人間観の変化",
+    "category": "講義動画",
+    "sub-category": "C_哲学と医療",
+    "title": "C4_医学における人間観の変化",
     "url": "https://vimeo.com/878146719/3c9987c051",
     "description": "",
     "files": [],
@@ -1015,9 +1015,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "哲学と医療",
-    "title": "次元的人間論と関連する思想哲学",
+    "category": "講義動画",
+    "sub-category": "C_哲学と医療",
+    "title": "C5_次元的人間論と関連する思想哲学",
     "url": "https://vimeo.com/878146757/46e00ca3fd",
     "description": "",
     "files": [],
@@ -1050,9 +1050,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "哲学と医療",
-    "title": "医療倫理における人格と尊厳および医学が目指す価値",
+    "category": "講義動画",
+    "sub-category": "C_哲学と医療",
+    "title": "C6_医療倫理における人格と尊厳および医学が目指す価値",
     "url": "https://vimeo.com/878156098/69ffe0db5d",
     "description": "",
     "files": [],
@@ -1085,9 +1085,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "哲学と医療",
-    "title": "近現代思想・哲学と現代医療",
+    "category": "講義動画",
+    "sub-category": "C_哲学と医療",
+    "title": "C7_近現代思想・哲学と現代医療",
     "url": "https://vimeo.com/878156126/a47dcf604e",
     "description": "",
     "files": [],
@@ -1120,9 +1120,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "医療経済",
-    "title": "経済学の定義と医療経済学の範囲、医療サービスの経済学的特性",
+    "category": "講義動画",
+    "sub-category": "D_医療経済",
+    "title": "D1_経済学の定義と医療経済学の範囲、医療サービスの経済学的特性",
     "url": "https://vimeo.com/868998079/0879d21fb8",
     "description": "",
     "files": [],
@@ -1155,9 +1155,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "医療経済",
-    "title": "医療サービス市場に対する規制",
+    "category": "講義動画",
+    "sub-category": "D_医療経済",
+    "title": "D2_医療サービス市場に対する規制",
     "url": "https://vimeo.com/874740512/409518b346",
     "description": "",
     "files": [],
@@ -1190,9 +1190,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "医療経済",
-    "title": "保険の理論と実際",
+    "category": "講義動画",
+    "sub-category": "D_医療経済",
+    "title": "D3_保険の理論と実際",
     "url": "https://vimeo.com/874740540/5b106b1c83",
     "description": "",
     "files": [],
@@ -1225,9 +1225,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "医療経済",
-    "title": "医療費増加の要因",
+    "category": "講義動画",
+    "sub-category": "D_医療経済",
+    "title": "D4_医療費増加の要因",
     "url": "https://vimeo.com/874740580/b6d2c61192",
     "description": "",
     "files": [],
@@ -1260,9 +1260,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "医療経済",
-    "title": "医療サービスの費用効果分析",
+    "category": "講義動画",
+    "sub-category": "D_医療経済",
+    "title": "D5_医療サービスの費用効果分析",
     "url": "https://vimeo.com/874740634/e12cbbb7d2",
     "description": "",
     "files": [],
@@ -1295,9 +1295,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "情報・科学技術の先端知識",
-    "title": "AI数理科学概論",
+    "category": "講義動画",
+    "sub-category": "E_情報・科学技術の先端知識",
+    "title": "E1_AI数理科学概論",
     "url": "https://vimeo.com/894010287/abecbd890e",
     "description": "",
     "files": [],
@@ -1330,9 +1330,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "情報・科学技術の先端知識",
-    "title": "機械学習入門①（教師あり学習）",
+    "category": "講義動画",
+    "sub-category": "E_情報・科学技術の先端知識",
+    "title": "E2_機械学習入門①（教師あり学習）",
     "url": "https://vimeo.com/894010316/d065304ff1",
     "description": "",
     "files": [],
@@ -1365,9 +1365,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "情報・科学技術の先端知識",
-    "title": "機械学習入門②（教師なし学習①）",
+    "category": "講義動画",
+    "sub-category": "E_情報・科学技術の先端知識",
+    "title": "E3_機械学習入門②（教師なし学習①）",
     "url": "https://vimeo.com/894010346/15a5fc8024",
     "description": "",
     "files": [],
@@ -1400,9 +1400,9 @@
     "filesInfo": []
   },
   {
-    "category": "資質・能力各論",
-    "sub-category": "情報・科学技術の先端知識",
-    "title": "機械学習入門③（教師なし学習②）",
+    "category": "講義動画",
+    "sub-category": "E_情報・科学技術の先端知識",
+    "title": "E4_機械学習入門③（教師なし学習②）",
     "url": "https://vimeo.com/894010380/8e4f75ca3d",
     "description": "",
     "files": [],
